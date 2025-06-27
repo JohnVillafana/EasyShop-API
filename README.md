@@ -1,6 +1,8 @@
 # EasyShop E-Commerce API 🛍️
 
 A robust Spring Boot REST API for an e-commerce platform, developed as a capstone project for the YearUp Java Development Program. This project demonstrates full-stack backend development skills including RESTful API design, database management, authentication, and security implementation.
+My Capstone presentation ✅ 
+https://johnvillafana.github.io/Capstone-presentation-/
 
 ## 📋 Table of Contents
 - [Overview](#overview)
